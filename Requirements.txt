@@ -1,0 +1,8 @@
+streamlit
+duckdb
+pandas
+matplotlib
+sqlparse
+langchain-core
+langchain-ollama
+ 
